@@ -13,6 +13,7 @@ Jrend takes a single object parameter with the following properties:
 
 ## Usage
 Jrend is a constructor that takes a single object as it's parameter
+### tag and value
 ```js
 Jrend({
   tag: 'h1', 
@@ -42,6 +43,7 @@ Jrend({
 //  </div>
 // </div>
 ```
+### Defining 'args'
 The 'args' property has 3 different methods of usage depending on your needs and preference:
 ```js
 Jrend({ 
