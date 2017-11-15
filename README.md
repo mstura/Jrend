@@ -13,7 +13,7 @@ Jrend takes a single object parameter with the following properties:
 
 ## Usage
 Jrend is a constructor that takes a single object as it's parameter
-js```
+```js
 Jrend({
   tag: 'h1', 
   value: 'hello world' 
@@ -24,7 +24,7 @@ Jrend({
 This would return the equivalent of the an h1 element with the innerHTML of "hello world";
 
 Using the value property it is possible to create an entire html element tree to be returned instead of a single html element
-js```
+```js
 Jrend({
   tag: 'div',
   value: { 
