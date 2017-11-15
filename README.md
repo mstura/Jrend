@@ -42,6 +42,19 @@ Jrend({
 //    <span>Jrend created me and my parents</span>
 //  </div>
 // </div>
+
+Jrend({
+  tag: 'div'
+  value: [
+      {tag: 'span', value: 'hello'},
+      {tag: 'span', value: 'world'}
+    ]
+  });
+  
+// <div>
+//  <span>hello</span>
+//  <span>world</span>
+// </div>
 ```
 ### Defining 'args'
 The 'args' property has 3 different methods of usage depending on your needs and preference:
