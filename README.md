@@ -123,8 +123,3 @@ Jrend({
   });
 // <h1>hello <span>world</span></h1>
 ```
-
-Supported Android versions
-==========================
-
-<table class="wrapped"><colgroup><col><col></colgroup><tbody><tr><th>Version</th><th>Supported</th></tr><tr><td>4.4 - 8.0</td><td style="text-align: center;"><div class="content-wrapper"><p><ac:image><ri:attachment ri:filename="image2018-6-11 14:18:56.png"></ri:attachment></ac:image></p></div></td></tr></tbody></table>
